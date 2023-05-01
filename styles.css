@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    height: 100vh;
+    width: 100%;
+    background-color: #16a085;
+    padding-top: 8rem;
+}
+
+.wrapper {
+    height: 30rem;
+    width: 36rem;
+    background-color: white;
+    margin: auto;
+}
